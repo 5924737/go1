@@ -1,0 +1,6 @@
+go run main.go
+./go
+go build
+go get -u github.com/gobuffalo/flect
+https://www.digitalocean.com/community/tutorials/importing-packages-in-go-ru
+https://www.digitalocean.com/community/tutorials/how-to-write-packages-in-go-ru
